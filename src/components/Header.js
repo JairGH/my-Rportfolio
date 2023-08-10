@@ -1,8 +1,9 @@
 import React from "react";
+import "../App.css";
 
 const Header = () => {
   return (
-    <div>
+    <div className="navbar-container">
       <h1>Full Stack Developer</h1>
       <nav>
         <ul>
