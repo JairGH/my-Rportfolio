@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="text-white bg-primary">
+    <div>
       <h1>About Me</h1>
       <p className="d-flex justify-content-center">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
